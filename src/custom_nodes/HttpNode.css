@@ -1,0 +1,7 @@
+.http-node__header {
+    padding: 8px 10px;
+    border-bottom: 1px solid #e2e8f0;
+}
+.http-node__body {
+    padding: 10px;
+}
